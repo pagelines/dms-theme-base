@@ -1,0 +1,4 @@
+[submodule "dms"]
+	path = dms
+	url = git@github.com:pagelines/DMS.git
+	branch = 1.2
